@@ -1,0 +1,36 @@
+body {
+  background-color: aliceblue;
+}
+
+.lists{
+  display: flex;
+  list-style: none;
+}
+.lists span{
+ width: 25%;
+ margin: 25px 25px;
+}
+
+
+.list{
+  display: flex;
+}
+.list span{
+  width: 25%;
+  margin: 15px 25px;
+}
+
+.completed{
+  color: green;
+}
+
+.notcompleted{
+  color: red;
+}
+
+.tit{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 25px 0;
+}
