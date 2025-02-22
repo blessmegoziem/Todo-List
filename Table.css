@@ -1,0 +1,32 @@
+body {
+    background-color: aliceblue;
+  }
+
+  .content{
+    border-collapse: collapse;
+    font-size: 1.em;
+    width: 90%;
+    margin: 25px 75px;
+  }
+  .content thead tr{
+    font-weight: bold;
+  }
+  .content th,
+  .content td{
+    padding: 10px 15px;
+    text-align: center;
+    border-bottom: 1px solid rgb(114, 113, 113);
+    width: 25%;
+
+  }
+
+
+
+  
+.completed{
+    color: green;
+  }
+  
+  .notcompleted{
+    color: red;
+  }
